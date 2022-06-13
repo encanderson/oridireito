@@ -13,7 +13,7 @@ const store = createStore(reducer);
 
 ReactDOM.render(
   <GoogleReCaptchaProvider
-    reCaptchaKey="6Lef6BkgAAAAAIIlAzu6IzER1E13qfM3o1puHXvT"
+    reCaptchaKey="6Ld--d8dAAAAAFW_ade0eyj8UOYss0HVIY6tZ_cJ"
     language="pt-br"
     scriptProps={{
       async: false,
