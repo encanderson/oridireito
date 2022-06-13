@@ -95,7 +95,7 @@ const AppBar = ({ ...others }) => {
                 component={RouterLink}
                 to="/"
               >
-                PBAdvocacia
+                OriDireito
               </Button>
             </Typography>
             <Stack
@@ -145,7 +145,7 @@ const AppBar = ({ ...others }) => {
                       <ListItemIcon>
                         <IconHome2 />
                       </ListItemIcon>
-                      <ListItemText primary="OriSistem" />
+                      <ListItemText primary="OriDireito" />
                     </ListItem>
                     <ListItem button onClick={handleMode}>
                       <ListItemIcon>
